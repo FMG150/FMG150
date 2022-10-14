@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FMG150
 - 👀 I’m interested in the world IT
 - 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python 3
 - 📫 How to reach me ...
 
 <!---
